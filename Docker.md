@@ -9,6 +9,7 @@
 
 ## Windows
 - [Cannot Connect to local Docker · Issue #3633 · docker/for-win](https://github.com/docker/for-win/issues/3633)
+- [WSL2 Docker が PC のディスクを圧迫する - Qiita](https://qiita.com/sarisia/items/5c53c078ab30eb26bc3b)
 
 ## Trouble Shooting
 - [Dockerでコンテナの停止・削除ができなくなった時の対処法 - Qiita](https://qiita.com/musatarosu/items/31d6293a93e75ca6073e)
